@@ -1,0 +1,9 @@
+[ui]
+hideTopBar = true
+
+[client]
+showErrorDetails = false
+
+[server]
+enableCORS = false
+enableXsrfProtection = true

@@ -5,7 +5,7 @@
 
 An AI-powered web application that converts long, noisy webpages into clear, structured summaries using modern LLMs — built with production-ready Python practices.
 
-🔗 Live Demo: (will add Streamlit URL here)
+🔗 Live Demo: (https://web-scrapping-llm-pj.streamlit.app/)
 👨‍💻 Author: Parth Joshi
 🎯 Focus: Clean architecture • Cost-safe AI usage • Professional UX
 
@@ -163,5 +163,5 @@ React frontend
 Parth Joshi
 Software Developer | Full-Stack | AI-Driven Applications
 
-🔗 GitHub: 
-🔗 LinkedIn: ()
+🔗 GitHub: https://github.com/ParthJoshi-2024
+🔗 LinkedIn: (https://www.linkedin.com/in/parth-j-59021089/)

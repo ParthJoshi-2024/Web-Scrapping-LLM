@@ -6,7 +6,9 @@
 An AI-powered web application that converts long, noisy webpages into clear, structured summaries using modern LLMs — built with production-ready Python practices.
 
 🔗 Live Demo: (https://web-scrapping-llm-pj.streamlit.app/)
+
 👨‍💻 Author: Parth Joshi
+
 🎯 Focus: Clean architecture • Cost-safe AI usage • Professional UX
 
 🚀 Why This Project Matters (Recruiter View)
